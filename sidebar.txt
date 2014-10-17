@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uis:home|Door43 (uis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uis|d43-uis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uis/archive/master.zip|d43-uis.zip]]
+
+**Recent Changes**
+{{changes>ns = uis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uis|Ethnologue data]]
+
